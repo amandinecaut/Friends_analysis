@@ -1,5 +1,5 @@
 csv==1.0
-IPython==8.15.0
+ipython==8.15.0
 jupyterlab==4.0.6
 json==2.0.9
 networkx==3.2
